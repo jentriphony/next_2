@@ -1,0 +1,18 @@
+.form {
+  width: fit-content;
+  height: fit-content;
+  margin-top: 8rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2rem 8rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 0 2px 2px white;
+}
+.form > button {
+  margin-top: 1rem;
+  padding: 0.4rem;
+  cursor: pointer;
+}

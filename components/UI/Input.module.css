@@ -1,0 +1,17 @@
+.input {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.input > input,
+.input > textarea {
+  padding: 1rem;
+  border-radius: 16%;
+}
+.input > textarea {resize: none;}
+.input > label {
+  margin-top: 1rem;
+  margin-bottom: 0.4rem;
+}
+.input > p {margin: 0.4rem;}

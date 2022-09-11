@@ -1,0 +1,13 @@
+.note {
+  position: absolute;
+  margin-top: 32%;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  color: black;
+}
+.note span {margin: 1rem;}
+.note button {cursor: pointer;}
